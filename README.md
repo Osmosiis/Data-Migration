@@ -1,2 +1,9 @@
 # Webapp dev - On prem.
-# Data migration from on-prem to cloud
+
+Tech stack
+* Ubuntu Linux
+* Vagrant
+* VMWare
+* Memcache
+* MySQL
+* Nginx
